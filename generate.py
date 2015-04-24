@@ -9,7 +9,7 @@ import os
 import string
 import random
 
-MIN_FILE_SIZE = 10 * 1024  # * 1024
+MIN_FILE_SIZE = 10 * 1024 * 1024
 
 MIN_ALPHABETICAL_LEN = 10
 MAX_ALPHABETICAL_LEN = 20
