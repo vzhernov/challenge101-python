@@ -1,4 +1,5 @@
 #!/usr/bin/env python
+#-*- encoding: utf-8
 
 """
     Generate a file with random data separated by comma.
